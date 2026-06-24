@@ -1,0 +1,8 @@
+label-studio-ml
+label-studio-sdk
+label-studio-converter
+torch
+torchvision
+opencv-python-headless
+Pillow
+numpy

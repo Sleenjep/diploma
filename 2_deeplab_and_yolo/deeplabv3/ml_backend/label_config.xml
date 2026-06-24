@@ -1,0 +1,6 @@
+<View>
+  <Image name="image" value="$image" zoom="true" zoomControl="true"/>
+  <BrushLabels name="brush" toName="image">
+    <Label value="person" background="#FF0000"/>
+  </BrushLabels>
+</View>

@@ -1,0 +1,8 @@
+path: E:\SosedTemporary\WorkingSpace\Narabotki\26-05-14_1\yolo11n_2500\yolo_dataset_1_0_3\dataset
+train: images/train
+val: images/val
+nc: 3
+names:
+- лицо
+- голова
+- персонаж
